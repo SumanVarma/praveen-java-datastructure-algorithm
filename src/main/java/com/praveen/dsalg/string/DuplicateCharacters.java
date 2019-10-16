@@ -13,12 +13,13 @@ public class DuplicateCharacters {
 			System.out.println("Input String");
 			String str = "";
 			str += scan.nextLine();
+			String noSpaceStr=str.replaceAll("\\s", "");
 			System.out.println("Duplicate characters in String " + str + " are : " + "\n");
-			withoutUsingInBuiltMethods(str.replaceAll("\\s", ""));
+			withoutUsingInBuiltMethods(noSpaceStr);
 			System.out.println("\n");
-			usingHashMap(str.replaceAll("\\s", ""));
+			usingHashMap(noSpaceStr);
 			System.out.println("\n");
-			usingJava8(str.replaceAll("\\s", ""));
+			usingJava8(noSpaceStr);
 
 		}
 
