@@ -13,7 +13,7 @@ public class FirstRecurringCharacter {
 			if (recurringChar != 0) {
 				System.out.println(recurringChar + " is the first recurring character in input string "+str);
 			} else {
-				System.out.println("No repeated char");
+				System.out.println("No repeated char  in input string "+str);
 			}
 
 		}
