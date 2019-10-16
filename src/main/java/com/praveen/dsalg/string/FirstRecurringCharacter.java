@@ -11,7 +11,7 @@ public class FirstRecurringCharacter {
 			str += scan.nextLine();
 			char recurringChar = firstRecurringCharacterUsingHashSet(str);
 			if (recurringChar != 0) {
-				System.out.println(recurringChar + " is first recurring character in input string "+str);
+				System.out.println(recurringChar + " is the first recurring character in input string "+str);
 			} else {
 				System.out.println("No repeated char");
 			}
