@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class PrimeNumberChecker {
 	public static void main(String args[]) {
 		try (Scanner scan = new Scanner(System.in);) {
-			System.out.println("Input String");
+			System.out.println("Input Number");
 			int num = scan.nextInt();
 			if (isPrime(num)) {
 				System.out.println(num + " is a prime number.");
