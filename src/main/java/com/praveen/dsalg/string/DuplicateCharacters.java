@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-//Find duplicate characters in a String and count the number of occurences
+//Find duplicate characters in a String and count the number of occurrences
 public class DuplicateCharacters {
 
 	public static void main(String args[]) {
