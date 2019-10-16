@@ -2,7 +2,7 @@ package com.praveen.dsalg.others;
 
 import java.util.Scanner;
 
-// Fibanocci numbers 1,1,2,3,5,8,13,21....
+// Fibonacci numbers 1,1,2,3,5,8,13,21....
 public class FibonacciNumber {
 	public static void main(String[] args) {
 		try (Scanner scan = new Scanner(System.in);) {
