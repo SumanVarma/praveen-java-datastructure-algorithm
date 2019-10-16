@@ -1,4 +1,4 @@
-package com.praveen.dsalg.stack.array;
+package com.praveen.dsalg.array;
 
 public class MissingNumberInAnArray {
 	public static int getMissingNumber(int numbers[], int n) {
