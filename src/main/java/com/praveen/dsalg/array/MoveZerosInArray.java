@@ -13,14 +13,14 @@ public class MoveZerosInArray {
 	}
 
 	private static void moveZeroes(int[] nums) {
-		int idx = 0;
+		int index = 0;
 		for (int num : nums) {
 			if (num != 0) {
-				nums[idx++] = num;
+				nums[index++] = num;
 			}
 		}
-		while (idx < nums.length) {
-			nums[idx++] = 0;
+		while (index < nums.length) {
+			nums[index++] = 0;
 		}
 	}
 }
