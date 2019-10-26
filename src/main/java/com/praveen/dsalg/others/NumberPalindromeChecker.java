@@ -11,7 +11,7 @@ public class NumberPalindromeChecker {
 			if (isPalindrome(num)) {
 				System.out.println("Number =" + num + " is a Palindrome number");
 			} else {
-				System.out.println("Number =" + num + " is a Palindrome number");
+				System.out.println("Number =" + num + " is not a Palindrome number");
 			}
 		}
 	}
