@@ -9,9 +9,9 @@ public class NumberPalindromeChecker {
 			System.out.println("Input Number");
 			int num = scan.nextInt();
 			if (isPalindrome(num)) {
-				System.out.println("Number =" + num + " is Palindrome");
+				System.out.println("Number =" + num + " is a Palindrome number");
 			} else {
-				System.out.println("Number =" + num + " is not a Palindrome");
+				System.out.println("Number =" + num + " is a Palindrome number");
 			}
 		}
 	}
