@@ -1,4 +1,4 @@
-package com.praveen.java.interview;
+package com.praveen.java.others;
 
 // Immutable class is nothing but content or state will not be changed
 public final class EmployeeImmutableClass {

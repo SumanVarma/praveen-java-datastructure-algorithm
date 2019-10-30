@@ -1,4 +1,4 @@
-package com.praveen.java.interview;
+package com.praveen.java.others;
 
 // This is an mutable class
 public class Address  implements Cloneable{

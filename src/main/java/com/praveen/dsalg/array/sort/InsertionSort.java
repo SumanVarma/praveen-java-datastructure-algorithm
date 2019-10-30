@@ -1,4 +1,4 @@
-package com.praveen.java.interview.arrays.sort;
+package com.praveen.dsalg.array.sort;
 
 //Insertion sort is a simple sorting algorithm that works the way we sort playing cards in our hand.We choose one card and insert in its position.
 //This is useful only for sorting small set of elements.

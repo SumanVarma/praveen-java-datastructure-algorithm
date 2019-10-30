@@ -1,4 +1,4 @@
-package com.praveen.java.interview.arrays.search;
+package com.praveen.dsalg.array.search;
 
 public class BinarySearch {
 	public static void main(String[] args) {

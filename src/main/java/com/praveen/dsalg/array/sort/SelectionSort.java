@@ -1,4 +1,4 @@
-package com.praveen.java.interview.arrays.sort;
+package com.praveen.dsalg.array.sort;
 
 // Selection sort is combination of searching and sorting.
 // It sorts the array by repeatedly finding the minimum element from unsorted part and putting it at the beginning until the sorting is achieved.

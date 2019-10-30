@@ -1,4 +1,4 @@
-package com.praveen.java.interview;
+package com.praveen.java.others;
 
 class Student {
 	private String studentName;

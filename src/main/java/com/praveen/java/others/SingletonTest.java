@@ -1,4 +1,4 @@
-package com.praveen.java.interview;
+package com.praveen.java.others;
 
 // Singleton is nothing but only object will be created
 class SingletonClass {

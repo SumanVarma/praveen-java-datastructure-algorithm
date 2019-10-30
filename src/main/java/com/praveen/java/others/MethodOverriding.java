@@ -1,4 +1,4 @@
-package com.praveen.java.interview;
+package com.praveen.java.others;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

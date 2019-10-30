@@ -1,4 +1,4 @@
-package com.praveen.java.interview;
+package com.praveen.java.others;
 
 // Method Overloading will come up in the same class and it must have same method name and different parameters
 //(either number of parameters or different type parameters)

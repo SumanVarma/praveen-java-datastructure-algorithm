@@ -1,4 +1,4 @@
-package com.praveen.java.interview.arrays.sort;
+package com.praveen.dsalg.array.sort;
 
 public class MergedSort {
 
