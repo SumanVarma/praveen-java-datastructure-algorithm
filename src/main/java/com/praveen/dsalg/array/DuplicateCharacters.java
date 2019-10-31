@@ -1,4 +1,4 @@
-package com.praveen.dsalg.string;
+package com.praveen.dsalg.array;
 
 import java.util.HashMap;
 import java.util.Map;
