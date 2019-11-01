@@ -2,7 +2,7 @@ package com.praveen.dsalg.array;
 
 import java.util.Scanner;
 
-// Check if Two Strings Are Anagram
+//Check if Two Strings Are Anagram
 //An anagram is a word which is formed by rearranging or shuffling of letters in another word, the most important property 
 //in Anagram is that all the letters have to be used only once. For example, abcd and dcba (or) abcd and cabd  (or) abcd and abdc are Anagrams
 // Example like LISTEN and SILENT (or) TRAINGLE and INTEGRAL are Anagrams
