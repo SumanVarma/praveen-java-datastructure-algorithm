@@ -3,6 +3,7 @@ package com.praveen.dsalg.array;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 //Find duplicate characters in a String and count the number of occurrences
@@ -63,7 +64,7 @@ public class DuplicateCharacters {
 	static void usingJava8(String str) {
 		System.out.println("Using Java8");
 		System.out.println(str.chars().mapToObj(i -> (char) i)
-				.collect(Collectors.groupingBy(Object::toString, Collectors.counting())));
+				.collect(Collectors.groupingBy(Function.identity(), Collectors.counting())));
 	}
 
 }
